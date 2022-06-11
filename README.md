@@ -1,4 +1,4 @@
-# trackdr-notes
+# Notes
 
 [Deep Learning](DeepLearning)
 
