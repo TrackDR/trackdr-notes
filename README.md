@@ -10,7 +10,7 @@
 
 [Interviewing](Interviews)
 
-[Machine Learning](Machine Learning)
+[Machine Learning](MachineLearning)
 
 [Quantitative Finance](QuantitativeFinance)
 
