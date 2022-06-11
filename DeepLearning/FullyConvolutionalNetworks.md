@@ -1,6 +1,11 @@
 <b>Fully Convolutional Networks for Semantic Segmentation (<a href="http://arxiv.org/abs/1411.4038">arxiv</a>, <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=video&amp;cd=2&amp;ved=0CCMQtwIwAWoVChMI4fDple6FxwIVClYeCh1SYAfI&amp;url=http%3A%2F%2Ftechtalks.tv%2Ftalks%2Ffully-convolutional-networks-for-semantic-segmentation%2F61606%2F&amp;ei=1au7VaGyHoqsedLAncAM&amp;usg=AFQjCNFW4hdeCyXViv4GxZ6GNwD7u5mGfQ&amp;sig2=QJsIvUinJtVINKxXuCeX_w&amp;bvm=bv.99261572,d.dmo&amp;cad=rja">video</a>, <a href="https://github.com/BVLC/caffe/wiki/Model-Zoo#fully-convolutional-semantic-segmentation-models-fcn-xs">caffemodel</a>, <a href="https://gist.github.com/shelhamer/80667189b218ad570e82#file-readme-md">example</a>, <a href="http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf">presentation</a>, <a href="http://stackoverflow.com/questions/32451934/image-per-pixel-scene-labeling-output-issue-using-fcn-32s-semantic-segmentation/32471602#32471602">solved issue</a>)</b>
+
 <b>Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs (<a href="http://arxiv.org/abs/1412.7062">arxiv</a>, DeepLab&nbsp;<a href="https://bitbucket.org/deeplab/deeplab-public/">bitbucket</a>, <a href="https://github.com/TheLegendAli/CCVL">github</a>, <a href="http://ccvl.stat.ucla.edu/ccvl/DeepLab/">pretrained models</a>, <a href="http://ccvl.stat.ucla.edu/software/deeplab/deeplab/">UCLA page</a>)</b>
+
 <b>Conditional Random Fields as Recurrent Neural Networks (<a href="http://arxiv.org/abs/1502.03240">arxiv</a>, <a href="http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html">project</a>, <a href="http://www.robots.ox.ac.uk/~szheng/crfasrnndemo">demo</a>, <a href="https://github.com/torrvision/crfasrnn">github</a>)</b>
+
 <b>Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation (<a href="http://arxiv.org/abs/1502.02734">arxiv</a>)</b>
+
 <b class="title mathjax">Constrained Convolutional Neural Networks for Weakly Supervised Segmentation (<a href="http://arxiv.org/abs/1506.03648">arxiv</a>)</b>
+
 <b class="title mathjax">BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation (<a href="http://arxiv.org/abs/1503.01640">arxiv</a>)</b>
