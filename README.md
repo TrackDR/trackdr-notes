@@ -1,9 +1,20 @@
 # trackdr-notes
 
 [Deep Learning](DeepLearning)
+
 [Filtering](Filtering)
 
+[Geometry](Geometry)
 
+[Geospatial](Geospatial)
+
+[Interviewing](Interviews)
+
+[Machine Learning](Machine Learning)
+
+[Quantitative Finance](QuantitativeFinance)
+
+[Radar](Radar)
 
 
 $ ls -d -1 git-*
