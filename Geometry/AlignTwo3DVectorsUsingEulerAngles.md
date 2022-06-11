@@ -2,14 +2,14 @@ Assume there are&nbsp;two 3D vectors $p$ and $q$ and $p$ needs to be aligned (po
 
 First, let's extract the&nbsp;<strong>axis-angle representation $k$ and $\theta$</strong>:
 
-$
+$$
 \begin{eqnarray}
 k &amp;=&amp; p \times q \\
 k &amp;=&amp; \frac{k}{||k||} \\
 p &amp;=&amp; \frac{p}{||p||} \\
 q &amp;=&amp; \frac{q}{||q||} \\
 \theta &amp;=&amp; cos^{-1}(p \cdot q)
-\end{eqnarray} $
+\end{eqnarray} $$
 
 Convert axis-angle ($k$ and $\theta$) to a matrix $R$
 
