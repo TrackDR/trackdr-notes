@@ -1,3 +1,5 @@
+# Align two 3D vectors using Euler Angles ($\alpha_x,\alpha_y,\alpha_z$)
+
 Assume there are&nbsp;two 3D vectors $p$ and $q$ and $p$ needs to be aligned (point in the same direction as) to $q$.
 
 First, let's extract the&nbsp;<strong>axis-angle representation $k$ and $\theta$</strong>:
