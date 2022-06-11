@@ -1,4 +1,4 @@
-1) Go through this book:
+1. Go through this book:
 
 <a href="https://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0984782850&amp;linkCode=as2&amp;tag=streaminunico-20&amp;linkId=30c76312bd41df8a3bf819ee5fb07d63">Cracking the Coding Interview: 189 Programming Questions and Solutions on Amazon</a><img style="border: none !important; margin: 0px !important;" src="//ir-na.amazon-adsystem.com/e/ir?t=streaminunico-20&amp;l=am2&amp;o=1&amp;a=0984782850" alt="" width="1" height="1" border="0">
 
