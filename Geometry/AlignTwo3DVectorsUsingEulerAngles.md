@@ -1,6 +1,6 @@
 # Align two 3D vectors using Euler Angles 
 
-($$\alpha_x,\alpha_y,\alpha_z$$)
+$$\alpha_x,\alpha_y,\alpha_z$$
 
 Assume there are&nbsp;two 3D vectors $p$ and $q$ and $p$ needs to be aligned (point in the same direction as) to $q$.
 
@@ -17,7 +17,7 @@ q &amp;=&amp; \frac{q}{||q||} \\
 
 Convert axis-angle ($k$ and $\theta$) to a matrix $R$
 
-$\begin{eqnarray}
+$$\begin{eqnarray}
 K &amp;=&amp;
 \left[ \begin{array}{ccc}
 0 &amp; k(3) &amp; k(2) \\
@@ -26,19 +26,19 @@ k(3) &amp; 0 &amp; -k(1) \\
 \end{array} \right]&nbsp;\\
 R &amp;=&amp; e^{\theta K} \\
 R &amp;=&amp; I +sin(\theta)K + (1-cos(\theta))K^2
-\end{eqnarray} $
+\end{eqnarray} $$
 
 Convert matrix $R$ to Euler angles ($\alpha_x,\alpha_y,\alpha_z$)
 
-$\begin{eqnarray}
+$$\begin{eqnarray}
 \alpha_x &amp;=&amp; atan2(R(3,2), R(3,3)) \\
 \alpha_y &amp;=&amp; atan2(-R(3,1), \sqrt{R(3,2)^2 + R(3,3)^2}) \\
 \alpha_z &amp;=&amp; atan2(R(2,1), R(1,1))
-\end{eqnarray} $
+\end{eqnarray} $$
 
 Verify Results
 
-$\begin{eqnarray}
+$$\begin{eqnarray}
 M_x &amp;=&amp;
 \left[ \begin{array}{ccc}
 1 &amp; 0 &amp; 0 \\
@@ -61,6 +61,6 @@ p_{rot} &amp;=&amp; M_zM_yM_xp \\
 p_{rot} &amp;=&amp; \frac{p_{rot}}{||p_{rot}||} \\
 q &amp;=&amp; \frac{q}{||q||} \\
 metric &amp;=&amp; atan2(||p_{rot} \times q||, p_{rot} \cdot q)
-\end{eqnarray} $
+\end{eqnarray} $$
 
 Metric should be zero.
