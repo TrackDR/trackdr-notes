@@ -1,0 +1,33 @@
+
+ 1. <a href="http://www.ossim.org/OSSIM/OSSIM_Home.html">OSSIM</a>
+<ol>
+ 1. <a href="http://download.osgeo.org/ossim/docs/pdfs/">OSSIMOrthos.pdf</a>
+
+ [GRASS](http://grass.osgeo.org/)
+
+ 1. <a href="http://grass.osgeo.org/gdp/html_grass64/i.ortho.photo.html">i.ortho.photo</a>
+
+
+ Orfeo Toolbox
+
+ 1. <a href="https://www.orfeo-toolbox.org/doxygen/Projections_2OrthoRectificationExample_8cxx-example.html">C++ example</a>
+ 1. <a href="http://otbcb.readthedocs.org/en/latest/Applications/app_OrthoRectification.html#detailed-description">Detailed Description</a>
+ 1. <a href="http://otbcb.readthedocs.org/en/latest/Applications/app_OrthoRectification.html#example">CLI and Python examples</a>
+
+
+ [Monteverdi and otb-applications](http://otbcb.readthedocs.org/en/latest/recipes/optpreproc.html#ortho-rectification-and-map-projections)
+ QGIS plugins
+
+ 1. <a href="https://plugins.qgis.org/plugins/Pic2Map/">Pic2Map</a>: <a href="https://documents.epfl.ch/groups/l/la/lasig-unit/www/pic2map/documentation/">docs</a>
+
+
+ DEMs
+
+ 1. <a href="http://www2.jpl.nasa.gov/srtm/">SRTM</a>
+<ol>
+ 1. <a href="http://dds.cr.usgs.gov/srtm/version2_1/SRTM1/">US 30m</a>
+
+
+ [ASTER](http://asterweb.jpl.nasa.gov/)
+
+
