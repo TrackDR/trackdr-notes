@@ -1,5 +1,11 @@
 # trackdr-notes
 
+[Deep Learning](DeepLearning)
+[Filtering](Filtering)
+
+
+
+
 $ ls -d -1 git-*
 
 git-bizhawk
