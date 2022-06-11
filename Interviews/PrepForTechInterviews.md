@@ -16,28 +16,28 @@ It has a good overview of topics to know (even if it just serves as a reminder f
 
 3) Use&nbsp;these timed competitions as practice:
 
-<a href="http://community.topcoder.com/longcontest/?module=ViewPractice" target="_blank">http://community.topcoder.com/<wbr>longcontest/?module=<wbr>ViewPractice</a>
+<a href="http://community.topcoder.com/longcontest/?module=ViewPractice" target="_blank">http://community.topcoder.com/longcontest/?module=ViewPractice</a>
 
-<a href="http://apps.topcoder.com/wiki/display/tc/Algorithm+Overview" target="_blank">http://apps.topcoder.com/wiki/<wbr>display/tc/Algorithm+Overview</a>
+<a href="http://apps.topcoder.com/wiki/display/tc/Algorithm+Overview" target="_blank">http://apps.topcoder.com/wiki/display/tc/Algorithm+Overview</a>
 
 4) There are good courses out there for algorithms. I watched the 2005 MIT Algorithms Video Lectures and some of the 2011 class.
 
-<a href="http://videolectures.net/mit6046jf05_introduction_algorithms/" target="_blank">http://videolectures.net/<wbr>mit6046jf05_introduction_<wbr>algorithms/</a>
+<a href="http://videolectures.net/mit6046jf05_introduction_algorithms/" target="_blank">http://videolectures.net/mit6046jf05_introduction_algorithms/</a>
 
-<a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/" target="_blank">http://ocw.mit.edu/courses/<wbr>electrical-engineering-and-<wbr>computer-science/6-006-<wbr>introduction-to-algorithms-<wbr>fall-2011/lecture-videos/</a>
+<a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/" target="_blank">http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/</a>
 
 <a title="https://www.khanacademy.org/computing/computer-science/algorithms" href="https://www.khanacademy.org/computing/computer-science/algorithms">https://www.khanacademy.org/computing/computer-science/algorithms</a>
 
 5) These courses on coursera are good too.
 You can just usually "preview" them to see the course content.
 
-<a href="https://www.coursera.org/course/algo" target="_blank">https://www.coursera.org/<wbr>course/algo</a>
+<a href="https://www.coursera.org/course/algo" target="_blank">https://www.coursera.org/course/algo</a>
 
-<a href="https://www.coursera.org/course/algo2" target="_blank">https://www.coursera.org/<wbr>course/algo2</a>
+<a href="https://www.coursera.org/course/algo2" target="_blank">https://www.coursera.org/course/algo2</a>
 
-<a href="https://www.coursera.org/course/algs4partI" target="_blank">https://www.coursera.org/<wbr>course/algs4partI</a>
+<a href="https://www.coursera.org/course/algs4partI" target="_blank">https://www.coursera.org/course/algs4partI</a>
 
-<a href="https://www.coursera.org/course/algs4partII" target="_blank">https://www.coursera.org/<wbr>course/algs4partII</a></div>
+<a href="https://www.coursera.org/course/algs4partII" target="_blank">https://www.coursera.org/course/algs4partII</a></div>
 
 6) Other good Algorithms books
 
