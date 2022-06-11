@@ -27,3 +27,5 @@ git-quantecon-notebooks
 git-tensorflow-docs
 
 git-tensorflow-examples
+
+Using [HTML to Github Markdown Converter](https://codepen.io/jeremylshepherd/pen/VWxNMV) for some of these notes
