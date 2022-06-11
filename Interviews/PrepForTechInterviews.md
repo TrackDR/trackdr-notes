@@ -41,8 +41,8 @@ You can just usually "preview" them to see the course content.
 
 6) Other good Algorithms books
 
-<a href="https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0262033844&amp;linkCode=as2&amp;tag=streaminunico-20&amp;linkId=1cad200c315ef83ec53bcddde9b687c9">Introduction to Algorithms, 3rd Edition (MIT Press) on Amazon</a><img style="border: none !important; margin: 0px !important;" src="//ir-na.amazon-adsystem.com/e/ir?t=streaminunico-20&amp;l=am2&amp;o=1&amp;a=0262033844" alt="" width="1" height="1" border="0">
+<a href="https://www.amazon.com/gp/product/0262033844/">Introduction to Algorithms, 3rd Edition (MIT Press) on Amazon</a>
 
-<a href="https://www.amazon.com/gp/product/032157351X/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=032157351X&amp;linkCode=as2&amp;tag=streaminunico-20&amp;linkId=f49013fa0ea68e6e2c6e05012386a22d">Algorithms (4th Edition) on Amazon</a>&nbsp;- (<a href="http://algs4.cs.princeton.edu/home/">online version</a>)
+<a href="https://www.amazon.com/gp/product/032157351X/>Algorithms (4th Edition) on Amazon</a>&nbsp;- (<a href="http://algs4.cs.princeton.edu/home/">online version</a>)
 
 7) Top Coder Algorithms <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/">Tutorials</a>
