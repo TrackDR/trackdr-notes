@@ -10,7 +10,7 @@ It has a good overview of topics to know (even if it just serves as a reminder f
 
 <a href="http://www.geeksforgeeks.org/" target="_blank">http://www.geeksforgeeks.org</a>
 
-<a href="http://www.glassdoor.com/Interview/index.htm" target="_blank">http://www.glassdoor.com/<wbr>Interview/index.htm</a>
+<a href="http://www.glassdoor.com/Interview/index.htm" target="_blank">http://www.glassdoor.com/Interview/index.htm</a>
 
 <a href="https://leetcode.com/">https://leetcode.com</a>
 
