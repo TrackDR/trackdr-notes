@@ -43,6 +43,6 @@ You can just usually "preview" them to see the course content.
 
 <a href="https://www.amazon.com/gp/product/0262033844/">Introduction to Algorithms, 3rd Edition (MIT Press) on Amazon</a>
 
-<a href="https://www.amazon.com/gp/product/032157351X/>Algorithms (4th Edition) on Amazon</a>&nbsp;- (<a href="http://algs4.cs.princeton.edu/home/">online version</a>)
+<a href="https://www.amazon.com/gp/product/032157351X/">Algorithms (4th Edition) on Amazon</a>&nbsp;- (<a href="http://algs4.cs.princeton.edu/home/">online version</a>)
 
 7) Top Coder Algorithms <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/">Tutorials</a>
