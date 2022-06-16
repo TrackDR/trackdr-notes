@@ -6,7 +6,5 @@ $$ ActualIncome = \frac{AskedIncome}{1-TaxRate} $$
 
 ## Multiple Tax Brackets
 
-$$ ActualIncome = \frac{AskedIncome-BottomOfClosestIncomeBracket}{1-TaxRate} + \sum_i^N (Spread_i)(TR_i) $$
-where
-$$ Spread_i  =  Diff between i_{th} top and bottom of tax bracket $$
-$$ TR_i is the Tax rate of the i_{th} tax bracket$$
+$$ ActualIncome = \frac{AskedIncome-BottomOfClosestIncomeBracket}{1-TopTaxRate} + \sum_i^N (Spread_i)(TaxRate_i) $$
+$$ Spread_i  =  Diff between top and bottom of i_{th} tax bracket $$
