@@ -1,4 +1,4 @@
-# Desired Pay (What is my Actual Inome if I ask for a certain income?)
+# Desired Pay (What is my Actual Income if I ask for a certain income?)
 
 ## One Tax Bracket
 
