@@ -8,4 +8,4 @@ $$ ActualIncome = \frac{AskedIncome}{1-TaxRate} $$
 
 $$ ActualIncome = \frac{AskedIncome-BottomOfClosestIncomeBracket}{1-TopTaxRate} + \sum_i^N (Spread_i)(TaxRate_i) $$
 
-$$ Spread_i  =  Diff between top and bottom of i_{th} tax bracket $$
+$$ Spread_i  = $$  Diff between top and bottom of $i_{th}$ tax bracket
