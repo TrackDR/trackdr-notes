@@ -20,8 +20,13 @@ So I need to ask for $157894.74 to get $120K after taxes with a single tax brack
 
 ## Example - Multiple Tax Brackets
 
-The US Federal Income Tax uses tax brackets
+The US Federal Income Tax uses tax brackets (Taxable Income for a Single Person)
 - 10% for Income Up to $10,275 
 - 12% for Income $10,276 to $41,775
 - 22% for Income $41,776 to $89,075
 - 24% for Income $89,076 to $170,050
+- 32% for Income $170,050 to $215,950
+- 35% for Income $215,951 to $539,000
+- 37% for Income Over $539,900
+
+
