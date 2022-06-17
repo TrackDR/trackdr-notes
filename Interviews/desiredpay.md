@@ -12,6 +12,6 @@ $Spread_i  =$  Diff between top and bottom of $i_{th}$ tax bracket
 
 ## Example
 
-I want to make $160K a year.  My top tax rate is 24%
+I want to make $120K a year.  My top tax rate is 24%
 
-If I was just considering one tax bracket, my equation would be $\frac{160000}{1-.24}$
+If I was just considering one tax bracket, my equation would be $\frac{120000}{1-.24} = $157894.74$
