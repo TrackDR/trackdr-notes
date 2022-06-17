@@ -1,4 +1,4 @@
-# Desired Pay (What income to I need to ask for to get my desired income)
+# What income to I need to ask for to get my desired income?
 
 ## One Tax Bracket
 
