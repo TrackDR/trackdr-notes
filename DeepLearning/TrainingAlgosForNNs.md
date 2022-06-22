@@ -26,3 +26,8 @@ PyTorch
 
 Tensorflow Keras
 - [Optimizers](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers)
+- [Adam](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam)
+- [SGD](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/SGD)
+        
+Adaptive Moment Estimation Algorithm (Adam)
+- 
