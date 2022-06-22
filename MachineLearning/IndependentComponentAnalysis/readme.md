@@ -1,20 +1,22 @@
 [ICA Links](IndependentComponentAnalysis.md)
 
-[BSSUsingFastICA.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/BlindSourceSeparationUsingFastICA.ipynb)
+Jupyter Notebooks
 
-[BlindSourceSeparationUsingFastICA-noise.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/BlindSourceSeparationUsingFastICA-noise.ipynb)
+- [BSSUsingFastICA.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/BlindSourceSeparationUsingFastICA.ipynb)
 
-[BlindSourceSeparationUsingFastICA.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/BlindSourceSeparationUsingFastICA.ipynb)
+- [BlindSourceSeparationUsingFastICA-noise.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/BlindSourceSeparationUsingFastICA-noise.ipynb)
 
-[FacesDecompositions.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/FacesDecompositions.ipynb)
+- [BlindSourceSeparationUsingFastICA.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/BlindSourceSeparationUsingFastICA.ipynb)
 
-[FastICAOn2DPointClouds.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/FastICAOn2DPointClouds.ipynb)
+- [FacesDecompositions.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/FacesDecompositions.ipynb)
 
-[LearningGaborFiltersWithICA.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/LearningGaborFiltersWithICA.ipynb)
+- [FastICAOn2DPointClouds.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/FastICAOn2DPointClouds.ipynb)
 
-[plot_image_denoising.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/plot_image_denoising.ipynb)
+- [LearningGaborFiltersWithICA.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/LearningGaborFiltersWithICA.ipynb)
 
-[plot_image_denoising_ica.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/plot_image_denoising_ica.ipynb)
+- [plot_image_denoising.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/plot_image_denoising.ipynb)
 
-[PrepWavFilesForBSS.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/PrepWavFilesForBSS.ipynb)
+- [plot_image_denoising_ica.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/plot_image_denoising_ica.ipynb)
+
+- [PrepWavFilesForBSS.ipynb](https://github.com/TrackDR/ModdedIpythonNotebooks/blob/master/PrepWavFilesForBSS.ipynb)
 
