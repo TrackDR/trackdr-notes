@@ -21,8 +21,7 @@ Tensorflow Keras
 - [SGD](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/SGD)
         
 Adaptive Moment Estimation Algorithm (Adam)
-
-    <li><a href="https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/">https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/</a></li>
+- https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning
     <li><a href="https://scicomp.stackexchange.com/questions/34172/when-training-a-neural-network-why-choose-adam-over-l-bgfs-for-the-optimizer">https://scicomp.stackexchange.com/questions/34172/when-training-a-neural-network-why-choose-adam-over-l-bgfs-for-the-optimizer</a></li>
     <li><a href="https://pythonguides.com/adam-optimizer-pytorch/">https://pythonguides.com/adam-optimizer-pytorch/</a></li>
     <li><a href="https://github.com/theroyakash/Adam">https://github.com/theroyakash/Adam</a></li>
