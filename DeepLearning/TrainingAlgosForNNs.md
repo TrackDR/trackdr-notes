@@ -9,6 +9,8 @@
 </ul>
 <!-- /wp:list -->
 
+https://www.deeplearningbook.org/contents/optimization.html
+
 PyTorch
 - [Optimizers](https://pytorch.org/docs/stable/optim.html)
 - [SGD](https://pytorch.org/docs/stable/generated/torch.optim.SGD.html#torch.optim.SGD)
