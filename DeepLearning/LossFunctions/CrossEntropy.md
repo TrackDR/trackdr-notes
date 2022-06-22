@@ -3,6 +3,9 @@ Links
   - [Losses](https://pytorch.org/docs/stable/nn.html#loss-functions)
   - [Cross Entropy Loss](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html#torch.nn.CrossEntropyLoss)
   - [SoftMax](https://pytorch.org/docs/stable/generated/torch.nn.Softmax.html)
+  - [LogSoftMax](https://pytorch.org/docs/stable/generated/torch.nn.LogSoftmax.html#torch.nn.LogSoftmax)
+  - [Negative Log Likelihood Loss](https://pytorch.org/docs/stable/generated/torch.nn.NLLLoss.html#torch.nn.NLLLoss)
+  - Cross-Entropy loss here is computed as LogSoftMax put into a NLLLoss
 - Keras
   - [Losses](https://keras.io/api/losses/)
   - [Probabilistic Losses](https://keras.io/api/losses/probabilistic_losses/)
