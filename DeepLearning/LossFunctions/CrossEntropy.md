@@ -19,6 +19,5 @@ Links
  - https://blog.paperspace.com/pytorch-loss-functions/
  - https://notesbylex.com/tag/lossfunctions.html
 
-Some Code Examples would be nice to add
 
 
