@@ -17,6 +17,7 @@ Links
   - [Softmax Function](https://en.wikipedia.org/wiki/Softmax_function)
   - [Logistic Function](https://en.wikipedia.org/wiki/Logistic_function)
  - https://blog.paperspace.com/pytorch-loss-functions/
+ - https://notesbylex.com/tag/lossfunctions.html
 
 Some Code Examples would be nice to add
 
