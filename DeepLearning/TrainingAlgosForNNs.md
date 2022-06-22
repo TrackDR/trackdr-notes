@@ -23,8 +23,8 @@
 
 PyTorch
 - [Optimizers](https://pytorch.org/docs/stable/optim.html)
-- [SGD]()
-- [Adam]()
+- [SGD](https://pytorch.org/docs/stable/generated/torch.optim.SGD.html#torch.optim.SGD)
+- [Adam](https://pytorch.org/docs/stable/generated/torch.optim.Adam.html#torch.optim.Adam)
 
 Tensorflow Keras
 - [Optimizers](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers)
