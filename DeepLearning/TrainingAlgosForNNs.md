@@ -13,9 +13,7 @@
     <li><a href="https://github.com/theroyakash/Adam">https://github.com/theroyakash/Adam</a></li>
     <li><a href="https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam">https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam</a></li>
     <li><a href="https://www.geeksforgeeks.org/intuition-of-adam-optimizer/">https://www.geeksforgeeks.org/intuition-of-adam-optimizer/</a></li>
-    <li><a href="https://pytorch.org/docs/stable/generated/torch.optim.Adam.html">https://pytorch.org/docs/stable/generated/torch.optim.Adam.html</a></li>
-    <li><a href="https://pytorch.org/docs/stable/optim.html">https://pytorch.org/docs/stable/optim.html</a></li>
-    <li><a href="https://towardsdatascience.com/how-to-implement-an-adam-optimizer-from-scratch-76e7b217f1cc">https://towardsdatascience.com/how-to-implement-an-adam-optimizer-from-scratch-76e7b217f1cc</a></li>
+        <li><a href="https://towardsdatascience.com/how-to-implement-an-adam-optimizer-from-scratch-76e7b217f1cc">https://towardsdatascience.com/how-to-implement-an-adam-optimizer-from-scratch-76e7b217f1cc</a></li>
     <li><a href="https://www.youtube.com/watch?v=JXQT_vxqwIs">https://www.youtube.com/watch?v=JXQT_vxqwIs</a> (Tutorial)</li>
     <li></li>
 </ul>
