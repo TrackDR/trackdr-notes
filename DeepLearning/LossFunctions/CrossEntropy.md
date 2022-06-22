@@ -1,7 +1,7 @@
 Links
 - PyTorch
   - [Losses](https://pytorch.org/docs/stable/nn.html#loss-functions)
-  - [Cross Entropy](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html#torch.nn.CrossEntropyLoss)
+  - [Cross Entropy Loss](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html#torch.nn.CrossEntropyLoss)
   - [SoftMax](https://pytorch.org/docs/stable/generated/torch.nn.Softmax.html)
 - Keras
   - [Losses](https://keras.io/api/losses/)
