@@ -20,3 +20,11 @@
     <li></li>
 </ul>
 <!-- /wp:list -->
+
+PyTorch
+- [Optimizers](https://pytorch.org/docs/stable/optim.html)
+- [SGD]()
+- [Adam]()
+
+Tensorflow Keras
+- [Optimizers](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers)
