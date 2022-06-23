@@ -45,4 +45,6 @@ https://github.com/inkawhich/synthetic-to-measured-sar
 
 https://github.com/inkawhich/ood-sar-atr
 
+[Multi-Modal Aerial View Object Classification Challenge - PBVS 2022](../Conferences/CVPR2022/PBVS2022/mavoc.md)
+
 
