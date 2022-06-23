@@ -26,7 +26,7 @@ Teams
 - jzsherlock (IISc, Bengaluru)
   - Sumanth Udupa, Aniruddh Sikdar, Suresh Sundaram
 - CiuchitiPoc (MCC Resources SRL, Romania, Iasi)
-  - Casian Miron, Daria Miron,Oana Moraru
+  - Casian Miron, Daria Miron, Oana Moraru
 
 Organization Team
 - Spencer Low, Dr. Oliver Nina, Dr. Angel Sappa, Bob Lee
