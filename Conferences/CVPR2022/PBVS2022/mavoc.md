@@ -18,7 +18,7 @@ Teams
 - NYCX (University of Electronic Science and Technology of China)
   - Rui Zhang, Yuhui Wu, Zhiwen Wang
 - Moyu (Beihang University)
-  - Linpeng Pan, Gongzhe Li,Linwei Qiu, Zhiwen Tan, Fengying Xie, Haopeng Zhang
+  - Linpeng Pan, Gongzhe Li, Linwei Qiu, Zhiwen Tan, Fengying Xie, Haopeng Zhang
   - [Paper - A Two-Stage Shake-Shake Network for Long-Tailed Recognition of SAR Aerial View Objects](https://openaccess.thecvf.com/content/CVPR2022W/PBVS/papers/Li_A_Two-Stage_Shake-Shake_Network_for_Long-Tailed_Recognition_of_SAR_Aerial_CVPRW_2022_paper.pdf)
   - https://github.com/LinpengPan/PBVS2022-Multi-modal-AVOC-Challenge-Track1
 - sumanth_udupa (IISc, Bengaluru)
