@@ -21,11 +21,11 @@ Teams
   - Linpeng Pan, Gongzhe Li,Linwei Qiu, Zhiwen Tan, Fengying Xie, Haopeng Zhang
 - NLPR-RVG (The National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences)
   - Jiayin Sun, Zhengming Zhou and Qiulei Dong
- - sumanth_udupa (IISc, Bengaluru)
+- sumanth_udupa (IISc, Bengaluru)
   - Sumanth Udupa, Aniruddh Sikdar, Suresh Sundaram
- - jzsherlock (IISc, Bengaluru)
+- jzsherlock (IISc, Bengaluru)
   - Sumanth Udupa, Aniruddh Sikdar, Suresh Sundaram
- - CiuchitiPoc (MCC Resources SRL, Romania, Iasi)
+- CiuchitiPoc (MCC Resources SRL, Romania, Iasi)
   - Casian Miron, Daria Miron,Oana Moraru
 
 Organization Team
