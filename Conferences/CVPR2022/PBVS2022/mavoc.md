@@ -19,6 +19,8 @@ Teams
   - Rui Zhang, Yuhui Wu, Zhiwen Wang
 - Moyu (Beihang University)
   - Linpeng Pan, Gongzhe Li,Linwei Qiu, Zhiwen Tan, Fengying Xie, Haopeng Zhang
+  - https://openaccess.thecvf.com/content/CVPR2022W/PBVS/papers/Li_A_Two-Stage_Shake-Shake_Network_for_Long-Tailed_Recognition_of_SAR_Aerial_CVPRW_2022_paper.pdf
+  - https://github.com/LinpengPan/PBVS2022-Multi-modal-AVOC-Challenge-Track1
 - NLPR-RVG (The National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences)
   - Jiayin Sun, Zhengming Zhou and Qiulei Dong
 - sumanth_udupa (IISc, Bengaluru)
