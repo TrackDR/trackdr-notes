@@ -1,4 +1,8 @@
-# CVPR 2022
+# [CVPR 2022](https://cvpr2022.thecvf.com)
+
+[Paper Interaction Tool](https://public.tableau.com/views/CVPR2022/Dashboard1?:showVizHome=no)
+
+[Paper Awards](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)
 
 Best Paper Award: Learning to Solve Hard Minimal Problems
 - https://arxiv.org/abs/2112.03424
