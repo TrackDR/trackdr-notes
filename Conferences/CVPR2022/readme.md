@@ -12,6 +12,7 @@ Best Paper Award: Learning to Solve Hard Minimal Problems
 - https://openaccess.thecvf.com/content/CVPR2022/papers/Hruby_Learning_To_Solve_Hard_Minimal_Problems_CVPR_2022_paper.pdf
 - https://www.eth3d.net/datasets#high-res-multi-view
 - https://paperswithcode.com/paper/learning-to-solve-hard-minimal-problems
+- https://paperswithcode.com/paper/learning-to-solve-hard-minimal-problems/review/
 
 
 
