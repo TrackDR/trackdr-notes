@@ -9,6 +9,6 @@ nvidia-smi
 Nvidia Control Panel->
 Help->
 System Information->
-Components->
+Components
 
 NVcuda64.dll lists installed cuda driver
