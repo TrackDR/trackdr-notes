@@ -47,3 +47,4 @@ git-tensorflow-docs
 
 git-tensorflow-examples
 
+If .git folder won't delete in Windows 10, then start "Git Bash" as Administrator and rm -rf $mydir 
