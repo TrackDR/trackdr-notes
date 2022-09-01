@@ -1,3 +1,5 @@
+# Cuda Debug Focus
+
 https://docs.nvidia.com/nsight-visual-studio-edition/2022.2/cuda-inspect-state/index.html
 
 https://developer.nvidia.com/nsight-visual-studio-edition-supported-gpus-full-list#SupportedComputeConfigs
