@@ -23,10 +23,14 @@ $A^TA$ is not singular
 and $A^\dagger$ is a left inverse of $A$
 as $A^{\dagger}A = I_n$
 
+$A^{\dagger} = (A^TA)^{-1}A^T$
+
 If $rank(A)$ = $m \leq n$ then $A$ is full row rank
 so
 $AA^T$ is not singular
 and $A^\dagger$ is a right inverse of $A$
 as $AA^{\dagger} = I_m$
 
-If $m = n$ then $A^{\dagger} = A^{-1}$
+$A^{\dagger} = A^T(AA^T)^{-1}$
+
+If $m = n$ and $A$ is invertible, then $A^{\dagger} = A^{-1}$
