@@ -11,5 +11,6 @@ Links for Event Cameras
 - Anthony Yezzi
   - [Formulating Event-based Image Reconstruction as a Linear Inverse Problem with Deep Regularization using Optical Flow](https://arxiv.org/abs/2112.06242)
   - [Arxiv Search](https://arxiv.org/search/cs?searchtype=author&query=Yezzi,+A)
-- [Ganesh Sundaramoorthi](http://ganeshsun.com/)
+- Ganesh Sundaramoorthi
+  - http://ganeshsun.com/
   - 
