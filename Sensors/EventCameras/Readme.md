@@ -5,4 +5,11 @@ Links for Event Cameras
     - [Github repo](https://github.com/tub-rip/e2fai) 
   - https://sites.google.com/view/guillermogallego/research/event-based-vision
   - [Results of the CVPR 2025 Spatio-temporal Instance Segmentation Challenge](https://github.com/tub-rip/MouseSIS/blob/main/docs/challenge_results.md)
+    - [SIS-Challenge: Event-based Spatio-temporal Instance Segmentation Challenge at the CVPR 2025 Event-based Vision Workshop](https://arxiv.org/abs/2508.12813)
+  - [Arxiv Search](https://arxiv.org/search/cs?query=Gallego%2C+Guillermo&searchtype=author&abstracts=show&order=-announced_date_first&size=50)   
+- [NEVI 2025 - ICCV 2025 - 2nd Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras](https://sites.google.com/view/nevi-2025/home-page) 
+- Anthony Yezzi
+  - [Formulating Event-based Image Reconstruction as a Linear Inverse Problem with Deep Regularization using Optical Flow](https://arxiv.org/abs/2112.06242)
+  - [Arxiv Search](https://arxiv.org/search/cs?searchtype=author&query=Yezzi,+A)
+- [Ganesh Sundaramoorthi](http://ganeshsun.com/)
   - 
